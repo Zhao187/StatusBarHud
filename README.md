@@ -3,7 +3,9 @@
 
 ### Getting Started【开始使用】
 
-# Installation【安装】
+### Installation【安装】
+
+------
 
 #### From CocoaPods【使用CocoaPods】
 
@@ -46,3 +48,4 @@ pod IOSStatusBarHud
 [StatusBarHUD hide];
 ```
 
+!['图片'](./image/loading_icon.png)
